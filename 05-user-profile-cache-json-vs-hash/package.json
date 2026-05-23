@@ -1,0 +1,20 @@
+{
+  "name": "05-user-profile-cache-json-vs-hash",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "ioredis": "^5.10.1"
+    
+  }
+}
